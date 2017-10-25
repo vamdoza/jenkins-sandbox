@@ -1,1 +1,1 @@
-# macromaniac
+# Test-local Jenkins CI tool
